@@ -1,0 +1,9 @@
+[submodule "product_service/protos"]
+	path = product_service/protos
+	url = git@github.com:murtazokhongofurov/protos.git
+[submodule "store_service/protos"]
+	path = store_service/protos
+	url = git@github.com:murtazokhongofurov/protos.git
+[submodule "user_service/protos"]
+	path = user_service/protos
+	url = git@github.com:murtazokhongofurov/protos.git
