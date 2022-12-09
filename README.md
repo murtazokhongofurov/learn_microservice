@@ -19,4 +19,4 @@ google.golang.org/grpc/codes
 google.golang.org/grpc/status
 ```
 
-![CHEESE!](03cbc1a9f9178055093eb0c25ba9df2c29611671 (1).jpg)
+![CHEESE!](03cbc1a9f9178055093eb0c25ba9df2c29611671.jpg)
