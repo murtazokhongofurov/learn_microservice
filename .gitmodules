@@ -1,3 +1,0 @@
-[submodule "product_service/protos"]
-	path = product_service/protos
-	url = git@github.com:murtazokhongofurov/protos.git
